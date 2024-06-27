@@ -43,4 +43,8 @@ Financial Management: Budgeting, Forecasting, Cost-saving | Leadership: Team Gui
 ## Projects
 - [React](https://lenorastevensportfolio.netlify.app/) profile project
 - [Photography Showcase](https://lenorastevens.github.io/wdd130/lsphotography/index.html) travel project
-- 
+- [Class Projects](https://lenorastevens.github.io/wdd230/)
+- [Scooter Rental](https://lenorastevens.github.io/Scoots/) ficticious project
+- [NP State Search](https://lenorastevens.github.io/wdd130/CSE_121B_Projects/task6.html) api project
+- [NP Campground](https://lenorastevens.github.io/National-Parks-Campground-Guide/) api project
+  
