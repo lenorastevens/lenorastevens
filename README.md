@@ -39,4 +39,8 @@ Financial Management: Budgeting, Forecasting, Cost-saving | Leadership: Team Gui
 
 ## Let's Connect!
 - Here is my [LinkedIn](https://www.linkedin.com/in/lenorastevens/) profile
-- Here is my [React](https://lenorastevensportfolio.netlify.app/) profile project
+
+## Projects
+- [React](https://lenorastevensportfolio.netlify.app/) profile project
+- [Photography Showcase](https://lenorastevens.github.io/wdd130/lsphotography/index.html) travel project
+- 
