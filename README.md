@@ -34,7 +34,8 @@ I'm Lenora Stevens, a Software Development Student at BYU-I. I love programming 
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotnetCore" alt="DotnetCore" width="40" height="40"/>&nbsp;
 </div>
 
-- Skills: Programming: Python, HTML/CSS, C#, JavaScript, Typescript, Java, Kotlin, React, Tailwind CSS, ASP.Net, VS, and VS Code | Financial Management: Budgeting, Forecasting, Cost-saving | Leadership: Team Guidance, Mentorship | Team Collaboration: Service Improvement, Goal Achievement | Problem-Solving: Analytical, Technical Challenges | Communication: Clear, Effective
+- Skills: 
+Financial Management: Budgeting, Forecasting, Cost-saving | Leadership: Team Guidance, Mentorship | Team Collaboration: Service Improvement, Goal Achievement | Problem-Solving: Analytical, Technical Challenges | Communication: Clear, Effective
 
 ## Let's Connect!
 - Here is my [LinkedIn](https://www.linkedin.com/in/lenorastevens/) profile
