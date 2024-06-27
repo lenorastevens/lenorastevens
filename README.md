@@ -1,10 +1,9 @@
-## Hi there 👋
+# Lenora Stevens
+Hello, GitHub! 👋
 
-<!--
-**lenorastevens/lenorastevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lenora Stevens, a Software Development Student at BYU-I. I love programming and have enjoyed Full-Stack projects the most. Welcome to my profile!
 
-Here are some ideas to get you started:
-
+## About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Technologies and Tools
+
+## Let's Connect!
+- Here is my [LinkedIn](https://www.linkedin.com/in/lenorastevens/) profile
+- Here is my [React](https://lenorastevensportfolio.netlify.app/) profile project
+
+  
 -->
