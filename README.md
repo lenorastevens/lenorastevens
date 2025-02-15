@@ -41,6 +41,7 @@ Financial Management: Budgeting, Forecasting, Cost-saving | Leadership: Team Gui
 - Here is my [LinkedIn](https://www.linkedin.com/in/lenorastevens/) profile
 
 ## Projects
+- [Family Recipe Vault](https://github.com/natelandrum/family-recipe-vault) senior group project
 - [React](https://lenorastevensportfolio.netlify.app/) profile project
 - [Photography Showcase](https://lenorastevens.github.io/wdd130/lsphotography/index.html) travel project
 - [Class Projects](https://lenorastevens.github.io/wdd230/)
