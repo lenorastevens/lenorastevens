@@ -1,11 +1,11 @@
 # Lenora Stevens
 Hello, GitHub! 👋
 
-I'm Lenora Stevens, a Software Development Student at BYU-I. I love programming and have enjoyed Full-Stack projects the most. Welcome to my profile!
+I'm Lenora Stevens, a recent graduate from BYU-Idaho with a BS in Software Development. I love programming and have enjoyed Full-Stack projects the most. Welcome to my profile!
 
 ## About Me
-- 🔭 I’m currently working on my last year of classes for my Software Develpment BS.
-- 🌱 I’m currently learning about database design and look forward to my next semester of more web development classes.
+- 🔭 I graduated in April 2025 with a BS in Software Develpment.
+- 🌱 I have enjoyed learning about database design and look forward starting my career in web development.
 - 🤔 I’m looking for help with contacts and guidance for career development.
 - 💬 Ask me about my hobbies which include travel, photography, hiking, and volleyball.
 - 📫 How to reach me: follow the Linkedin link and message me there.
