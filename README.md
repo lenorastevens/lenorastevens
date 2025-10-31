@@ -45,7 +45,7 @@ Financial Management: Budgeting, Forecasting, Cost-saving | Leadership: Team Gui
 
 ## Projects
 - [Winmill Family Ranch](https://winmill-family-ranch.vercel.app/) current project in progress
-- [Family Recipe Vault](https://github.com/natelandrum/family-recipe-vault) senior group project
+- [Family Recipe Vault](https://family-recipe-vault.vercel.app/) senior group project
 - [React](https://lenorastevensportfolio.netlify.app/) profile project
 - [Photography Showcase](https://lenorastevens.github.io/wdd130/lsphotography/index.html) travel project
 - [Class Projects](https://lenorastevens.github.io/wdd230/)
