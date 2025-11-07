@@ -9,7 +9,7 @@ I'm Lenora Stevens, a recent graduate from BYU-Idaho with a BS in Software Devel
 - 🤔 I’m looking for help with contacts and guidance for career development.
 - 💬 Ask me about my hobbies which include travel, photography, hiking, and volleyball.
 - 📫 How to reach me: follow the Linkedin link and message me there.
-- ⚡ Fun fact: I am a mom of 4 boys and am getting my education and career started later in life.
+- ⚡ Fun fact: I have been to 40/60 National Parks in the contiguous United States.
 
 ## Technologies and Tools
 - Experienced In:
